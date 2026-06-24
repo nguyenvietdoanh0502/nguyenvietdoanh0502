@@ -31,14 +31,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvietdoanh0502&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenvietdoanh0502&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvietdoanh0502&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ### 🏆 GitHub Trophies
